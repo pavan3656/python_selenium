@@ -1,0 +1,10 @@
+file = open("text.txt")
+# print(file.read(10))
+# file = open("text.txt")
+# file.close()
+line = file.readline()
+while line != "":
+    print(line)
+    line = file.readline()
+file.close()
+# read one single line at a time using readline method()
