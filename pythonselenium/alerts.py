@@ -7,3 +7,4 @@ driver.find_element_by_id("alertbtn").click()
 alert = driver.switch_to.alert
 print(alert.text)
 alert.accept()
+alert.dismiss()

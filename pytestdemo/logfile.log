@@ -1,0 +1,7 @@
+2021-05-28 22:24:42,026 :CRITICAL : pytestdemo.test_ logging :Critical issue
+2021-05-28 22:25:54,252 :DEBUG : pytestdemo.test_ logging :A debug statement is executed
+2021-05-28 22:25:54,253 :INFO : pytestdemo.test_ logging :Information statement
+2021-05-28 22:25:54,253 :DEBUG : pytestdemo.test_ logging :A debug statement is executed
+2021-05-28 22:25:54,253 :WARNING : pytestdemo.test_ logging :Something is in warning mode
+2021-05-28 22:25:54,253 :ERROR : pytestdemo.test_ logging :A Major error has happend
+2021-05-28 22:25:54,254 :CRITICAL : pytestdemo.test_ logging :Critical issue
